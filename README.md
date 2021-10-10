@@ -2,7 +2,7 @@
 #### live site: https://myreactjs-todo-app.netlify.app/
 
 ## Screenshots
-[![image](https://www.linkpicture.com/q/screenshot_9.png)](https://www.linkpicture.com/view.php?img=LPic616291125c6d01873060228)
+[![image](https://www.linkpicture.com/q/scrnli_10_9_2021_3-37-29-PM_1.png)](https://www.linkpicture.com/view.php?img=LPic6162927d33527128441007)
 
 ## About
 - This is my first react project - Todo App
