@@ -1,3 +1,13 @@
+### React Todo App
+#### live site: https://myreactjs-todo-app.netlify.app/
+
+## Screenshots
+[![image](https://www.linkpicture.com/q/screenshot_9.png)](https://www.linkpicture.com/view.php?img=LPic616291125c6d01873060228)
+
+## About
+- This is my first react project - Todo App
+- you can add todo and delete todo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
